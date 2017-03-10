@@ -1,6 +1,4 @@
 # Kyler Adams
-# Ryan Loong
-# Tom del Zoppo
 
 #Sample R Program for Estimating Binary Response Models
 
