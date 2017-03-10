@@ -5,5 +5,7 @@ This paper conducts an econometric analysis to determine if, all else being equa
 
 Models and Estimation Method:
 Maximum Likelihood Estimation
+
 Logit
+
 Probit
